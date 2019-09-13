@@ -12,7 +12,7 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 tf = tfa.compat.v1
 
-# # 下载资源
+# 下载资源
 # url = 'https://www.cs.toronto.edu/~kriz/cifar-10-python.tar.gz'
 # filepath = 'F:\PythonProjects/DeepLearning/data/cifar-10-python.tar.gz'
 # if not os.path.isfile(filepath):
@@ -20,8 +20,8 @@ tf = tfa.compat.v1
 #     print('downloaded:',result)
 # else:
 #     print('Data file already exists.')
-#
-# # 解压
+
+# 解压
 tarpath = 'F:\PythonProjects/DeepLearning/data/cifar-10-batches-py'
 # if not os.path.exists(tarpath):
 #     tfile = tarfile.open(filepath, 'r:gz')
@@ -202,7 +202,7 @@ with tf.name_scope('output_layer'):
     b4 = bias([10])
     pred = tf.nn.softmax(tf.matmul(h_dropout, W4) + b4)
 
-
+# 优化层
 with tf.name_scope('optimizer'):
     # 定义占位符
     y = tf.placeholder('float', shape=[None, 10], name='label')

@@ -2,8 +2,12 @@
   <dictionary name="WZQAdmin">
     <words>
       <w>ckpt</w>
+      <w>conv</w>
+      <w>deepdream</w>
       <w>mnist</w>
       <w>onehot</w>
+      <w>relu</w>
+      <w>resized</w>
       <w>ytest</w>
       <w>ytrain</w>
     </words>

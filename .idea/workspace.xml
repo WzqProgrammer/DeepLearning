@@ -6,7 +6,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="fe759178-70a5-46ec-ac40-a115bc487055" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningTensorFlow/VGG16/Example_VGG16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningTensorFlow/VGG16/VGG16_model.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningTensorFlow/VGG16/vgg_preprocess.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_DeepDream.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_ImageNet.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_Images.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/dog.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/mountain.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tensorflow_inception_graph.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/WZQAdmin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/WZQAdmin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Examples/06.py" beforeDir="false" afterPath="$PROJECT_DIR$/Examples/06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_CIFAR.py" beforeDir="false" afterPath="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_CIFAR.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/新建文本文档.txt" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -31,45 +45,24 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearningTensorFlow/手写数字识别示例/Example_02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2040">
-              <caret line="89" selection-start-line="89" selection-end-line="118" selection-end-column="14" />
-              <folding>
-                <element signature="e#15#46#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearningTensorFlow/手写数字识别示例/Example_02_01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2712">
-              <caret line="118" column="65" selection-start-line="118" selection-start-column="65" selection-end-line="118" selection-end-column="65" />
-              <folding>
-                <element signature="e#0#31#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_CNN.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="3" column="24" selection-start-line="3" selection-start-column="24" selection-end-line="3" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_CIFAR.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="192">
-              <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+            <state relative-caret-position="5376">
+              <caret line="233" selection-start-line="233" selection-end-line="234" selection-end-column="14" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_Images.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="168">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#24#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -78,20 +71,86 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Examples/06.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="292">
-              <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
+            <state relative-caret-position="389">
+              <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/LearningTensorFlow/手写数字识别示例/Example_02_02.py">
+        <entry file="file://$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_ImageNet.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="7" column="18" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
+            <state relative-caret-position="600">
+              <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_DeepDream.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#37#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LearningTensorFlow/VGG16/VGG16_model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="422">
+              <caret line="99" column="40" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="40" />
               <folding>
                 <element signature="e#0#18#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearningTensorFlow/VGG16/Example_VGG16.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="97" column="42" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="42" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/Python/Lib/site-packages/tensorflow/python/ops/array_ops.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="2142" selection-start-line="2142" selection-end-line="2142" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LearningTensorFlow/VGG16/vgg_preprocess.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="806">
+              <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+              <folding>
+                <element signature="e#1188#1226#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://E:/Python/Lib/os.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6744">
+              <caret line="283" column="36" selection-start-line="283" selection-start-column="36" selection-end-line="283" selection-end-column="36" />
             </state>
           </provider>
         </entry>
@@ -149,8 +208,13 @@
         <option value="$PROJECT_DIR$/LearningTensorFlow/手写数字识别示例/Example_02_03.py" />
         <option value="$PROJECT_DIR$/LearningTensorFlow/手写数字识别示例/Example_02_01.py" />
         <option value="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_CNN.py" />
-        <option value="$PROJECT_DIR$/Examples/06.py" />
+        <option value="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_Images.py" />
         <option value="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_CIFAR.py" />
+        <option value="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_ImageNet.py" />
+        <option value="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_DeepDream.py" />
+        <option value="$PROJECT_DIR$/Examples/06.py" />
+        <option value="$PROJECT_DIR$/LearningTensorFlow/VGG16/VGG16_model.py" />
+        <option value="$PROJECT_DIR$/LearningTensorFlow/VGG16/Example_VGG16.py" />
       </list>
     </option>
   </component>
@@ -167,18 +231,12 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
-              <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
-              <item name="data" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
@@ -194,36 +252,37 @@
               <item name="DeepLearning" type="b2602c69:ProjectViewProjectNode" />
               <item name="DeepLearning" type="462c0819:PsiDirectoryNode" />
               <item name="LearningTensorFlow" type="462c0819:PsiDirectoryNode" />
-              <item name="卷积神经网络" type="462c0819:PsiDirectoryNode" />
+              <item name="VGG16" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/LearningTensorFlow/VGG16" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Python" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\GithubProjects\DeepLearning\LearningTensorFlow\VGG16" />
+      <recent name="F:\GithubProjects\DeepLearning\LearningTensorFlow\卷积神经网络" />
+      <recent name="F:\GithubProjects\DeepLearning\data" />
+      <recent name="F:\PythonProjects\DeepLearning\data" />
+      <recent name="F:\PythonProjects\DeepLearning\LearningTensorFlow\CIFAR-10" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\GithubProjects\DeepLearning\data" />
+      <recent name="F:\GithubProjects\DeepLearning" />
       <recent name="F:\PythonProjects\DeepLearning\data" />
       <recent name="F:\PythonProjects\DeepLearning\LearningTensorFlow\data" />
       <recent name="F:\PythonProjects\DeepLearning\LearningTensorFlow\手写数字识别示例" />
-      <recent name="F:\PythonProjects\DeepLearning\LearningTensorFlow" />
-      <recent name="F:\PythonProjects\DeepLearning\LearningTensorFlow\logs" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\PythonProjects\DeepLearning\data" />
-      <recent name="F:\PythonProjects\DeepLearning\LearningTensorFlow\CIFAR-10" />
-      <recent name="F:\PythonProjects\DeepLearning\MNIST_data" />
-      <recent name="F:\PythonProjects\DeepLearning" />
-      <recent name="F:\PythonProjects\DeepLearning\LearnProjects\ch03" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -238,14 +297,11 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.06">
+  <component name="RunManager" selected="Python.Example_VGG16">
     <configuration name="06" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Examples" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -253,50 +309,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Examples/06.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Example_03" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DeepLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningTensorFlow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\PythonProjects\DeepLearning\LearningTensorFlow\手写数字识别示例\Example_02_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="true" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="Example_03_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="DeepLearning" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningTensorFlow" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="F:\PythonProjects\DeepLearning\LearningTensorFlow\手写数字识别示例\Example_02_02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -327,7 +339,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Example_CNN" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="Example_DeepDream" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="DeepLearning" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -340,7 +352,48 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_CNN.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_DeepDream.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Example_ImageNet" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_ImageNet.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Example_VGG16" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="DeepLearning" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LearningTensorFlow/VGG16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/LearningTensorFlow/VGG16/Example_VGG16.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="true" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -373,11 +426,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Example_VGG16" />
         <item itemvalue="Python.06" />
+        <item itemvalue="Python.Example_DeepDream" />
+        <item itemvalue="Python.Example_ImageNet" />
         <item itemvalue="Python.Example_CIFAR" />
-        <item itemvalue="Python.Example_CNN" />
-        <item itemvalue="Python.Example_03_01" />
-        <item itemvalue="Python.Example_03" />
       </list>
     </recent_temporary>
   </component>
@@ -456,36 +509,49 @@
       <workItem from="1565428581793" duration="548000" />
       <workItem from="1565429412034" duration="659000" />
       <workItem from="1565434608453" duration="173000" />
+      <workItem from="1565436136942" duration="3188000" />
+      <workItem from="1565511393610" duration="2922000" />
+      <workItem from="1565576198247" duration="1293000" />
+      <workItem from="1565586927930" duration="1951000" />
+      <workItem from="1565662616601" duration="2422000" />
+      <workItem from="1565764712172" duration="5968000" />
+      <workItem from="1566201627439" duration="3788000" />
+      <workItem from="1566460276721" duration="8959000" />
+      <workItem from="1566623403543" duration="12127000" />
+      <workItem from="1566707929919" duration="6798000" />
+      <workItem from="1566795482734" duration="8295000" />
+      <workItem from="1566880390637" duration="331000" />
+      <workItem from="1567065111919" duration="7061000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="262058000" />
+    <option name="totallyTimeSpent" value="327161000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14285715" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.3344519" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.24944071" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info active="true" anchor="bottom" id="Find" order="1" visible="true" weight="0.329718" />
       <window_info anchor="bottom" id="Run" order="2" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.29284164" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.29501083" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" weight="0.329718" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
-      <window_info anchor="bottom" id="Terminal" order="11" weight="0.3286334" />
-      <window_info anchor="bottom" id="Python Console" order="12" visible="true" weight="0.3167028" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.50053304" side_tool="true" weight="0.25921908" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.20043811" />
+      <window_info active="true" anchor="bottom" id="Python Console" order="12" sideWeight="0.49946696" visible="true" weight="0.27982646" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" x="1469" y="347" width="386" height="716" id="SciView" order="3" visible="true" weight="0.21055438" />
+      <window_info anchor="right" x="1469" y="347" width="386" height="716" id="SciView" order="3" weight="0.42729306" />
       <window_info anchor="right" id="R Graphics" order="4" />
       <window_info anchor="right" id="R Packages" order="5" />
       <window_info anchor="right" x="0" y="0" width="434" height="856" id="Documentation" order="6" side_tool="true" weight="0.32995737" />
@@ -501,29 +567,12 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/DeepLearning$NumPyExample.coverage" NAME="NumPyExample Coverage Results" MODIFIED="1561727651518" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Examples" />
     <SUITE FILE_PATH="coverage/DeepLearning$06.coverage" NAME="06 Coverage Results" MODIFIED="1563864004189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Examples" />
+    <SUITE FILE_PATH="coverage/DeepLearning$Example_ImageNet.coverage" NAME="Example_ImageNet Coverage Results" MODIFIED="1566204415212" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络" />
+    <SUITE FILE_PATH="coverage/DeepLearning$Example_VGG16.coverage" NAME="Example_VGG16 Coverage Results" MODIFIED="1567071340503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LearningTensorFlow/VGG16" />
+    <SUITE FILE_PATH="coverage/DeepLearning$Example_DeepDream.coverage" NAME="Example_DeepDream Coverage Results" MODIFIED="1566630596693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LearningTensorFlow/卷积神经网络" />
     <SUITE FILE_PATH="coverage/DeepLearning$train_neuralnet.coverage" NAME="train_neuralnet Coverage Results" MODIFIED="1563704189039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/LearnProjects/ch04" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Examples/MatplotLibExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-          <folding>
-            <element signature="e#0#31#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/NumPyExample.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="24">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LearnProjects/ch03/sample_weight.pkl">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/LearnProjects/Common/MathFunctions.py" />
     <entry file="file://$PROJECT_DIR$/LearnProjects/ch03/perceptron_realize.py" />
     <entry file="file://$PROJECT_DIR$/LearnProjects/ch03/neuralnet_mnist.py">
@@ -794,13 +843,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Examples/06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="292">
-          <caret line="15" column="24" selection-start-line="15" selection-start-column="24" selection-end-line="15" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/LearningTensorFlow/手写数字识别示例/Example_02_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -811,10 +853,112 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://E:/Python/Lib/site-packages/tensorflow/python/lib/io/file_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2736">
+          <caret line="129" column="28" selection-start-line="129" selection-start-column="28" selection-end-line="129" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Lib/site-packages/pandas/core/internals/blocks.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="212">
+          <caret line="659" column="8" selection-start-line="659" selection-start-column="8" selection-end-line="659" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Lib/site-packages/PIL/Image.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60696">
+          <caret line="2534" selection-start-line="2534" selection-end-line="2534" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_CIFAR.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="192">
-          <caret line="22" column="1" lean-forward="true" selection-start-line="22" selection-start-column="1" selection-end-line="22" selection-end-column="1" />
+        <state relative-caret-position="5376">
+          <caret line="233" selection-start-line="233" selection-end-line="234" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#18#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_Images.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#24#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_ImageNet.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="32" column="21" selection-start-line="32" selection-start-column="21" selection-end-line="32" selection-end-column="21" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Lib/os.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6744">
+          <caret line="283" column="36" selection-start-line="283" selection-start-column="36" selection-end-line="283" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Examples/06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="389">
+          <caret line="44" column="25" lean-forward="true" selection-start-line="44" selection-start-column="25" selection-end-line="44" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningTensorFlow/卷积神经网络/Example_DeepDream.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="9" selection-start-line="9" selection-end-line="9" selection-end-column="40" />
+          <folding>
+            <element signature="e#0#37#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningTensorFlow/VGG16/vgg_preprocess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="806">
+          <caret line="59" column="10" selection-start-line="59" selection-start-column="10" selection-end-line="59" selection-end-column="10" />
+          <folding>
+            <element signature="e#1188#1226#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://E:/Python/Lib/site-packages/tensorflow/python/ops/array_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="2142" selection-start-line="2142" selection-end-line="2142" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningTensorFlow/VGG16/Example_VGG16.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="97" column="42" selection-start-line="97" selection-start-column="29" selection-end-line="97" selection-end-column="42" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LearningTensorFlow/VGG16/VGG16_model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="422">
+          <caret line="99" column="40" selection-start-line="99" selection-start-column="30" selection-end-line="99" selection-end-column="40" />
           <folding>
             <element signature="e#0#18#0" expanded="true" />
           </folding>

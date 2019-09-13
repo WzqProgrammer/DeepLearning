@@ -19,6 +19,7 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="tuple.imshow" />
+          <option value="tuple.set_title" />
         </list>
       </option>
     </inspection_tool>
